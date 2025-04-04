@@ -1,6 +1,6 @@
 # IoT-Based Smart Water Conservation System 💧
 
-This project is a **smart irrigation and water monitoring system** designed using Arduino and multiple sensors, aimed at promoting efficient water usage in agriculture or home gardening. The system monitors environmental conditions such as **soil moisture**, **temperature**, **light intensity**, and **water tank level**, and makes decisions to control water flow and alert users based on the readings.
+I have designed and developed a **smart irrigation and water monitoring system** designed using Arduino and multiple sensors, aimed at promoting efficient water usage in agriculture or home gardening. The system monitors environmental conditions such as **soil moisture**, **temperature**, **light intensity**, and **water tank level**, and makes decisions to control water flow and alert users based on the readings.
 
 ##  Live Simulation
 
